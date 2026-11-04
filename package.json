@@ -1,0 +1,17 @@
+{
+  "name": "dog_ai_back",
+  "version": "1.0.0",
+  "description": "Temporary backend for Dog_AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/KEA-MAX/DoG_AI_Back"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
